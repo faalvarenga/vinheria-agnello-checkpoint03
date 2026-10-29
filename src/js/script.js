@@ -64,4 +64,4 @@ console.log("NOMES EM CAIXA ALTA");
 console.log(nomesEmCaixaAlta());
 
 // resumo no alert
-alert("Vinheria Agnello\n\nEstoque total: " + estoqueTotal() + " garrafas\nVinhos com estoque baixo: " + vinhosEstoqueBaixo().length + "\n\nVeja os detalhes no console (F12)");
+alert("Vinharia Agnello\n\nEstoque total: " + estoqueTotal() + " garrafas\nVinhos com estoque baixo: " + vinhosEstoqueBaixo().length + "\n\nVeja os detalhes no console (F12)");
